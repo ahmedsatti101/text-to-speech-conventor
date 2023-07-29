@@ -1,0 +1,12 @@
+C:\Me\Documents\u23\u23\bin\Debug\u23.exe.config
+C:\Me\Documents\u23\u23\bin\Debug\u23.exe
+C:\Me\Documents\u23\u23\bin\Debug\u23.pdb
+C:\Me\Documents\u23\u23\obj\Debug\u23.csproj.AssemblyReference.cache
+C:\Me\Documents\u23\u23\obj\Debug\u23.csproj.SuggestedBindingRedirects.cache
+C:\Me\Documents\u23\u23\obj\Debug\u23.Properties.Resources.resources
+C:\Me\Documents\u23\u23\obj\Debug\u23.csproj.GenerateResource.cache
+C:\Me\Documents\u23\u23\obj\Debug\u23.csproj.CoreCompileInputs.cache
+C:\Me\Documents\u23\u23\obj\Debug\u23.exe
+C:\Me\Documents\u23\u23\obj\Debug\u23.pdb
+C:\Me\Documents\u23\u23\obj\Debug\u23.microphone.resources
+C:\Me\Documents\u23\u23\obj\Debug\u23.SettingsForm.resources

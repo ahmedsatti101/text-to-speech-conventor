@@ -1,0 +1,1 @@
+Apply: System.Windows.Forms.Button, Text: Apply | Cancel: System.Windows.Forms.Button, Text: Cancel| Colour: System.Windows.Forms.ComboBox, Items.Count: 2
